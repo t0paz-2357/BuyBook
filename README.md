@@ -1,23 +1,23 @@
-# 졸업 작품
-주제: 도서 구매
+# 졸업 작품 (Senior Project)
+주제: 도서 구매 (Book Shop)
 
-## 목차
+## 목차 (List)
   * [Admin 기능](#Admin-기능)
   * [User 기능](#User-기능)
   * [Database 구조](#Database-구조)
 
 ## Admin 기능
-	* 도서 추가/삭제/수정
-	* 공지사항 추가/삭제
-	* 추천 도서 게시글 추가/삭제
-	* 게시글 공개 여부 설정
-	* 회원 목록 확인
-	* 회원 희망 도서 확인
+	* 도서 추가/삭제/수정 (Book Add/Delete/Update)
+	* 공지사항 추가/삭제 (Notice Add/Delete)
+	* 추천 도서 게시글 추가/삭제 (Recommend Book Post Add/Delete)
+	* 게시글 공개 여부 설정 (Posts Visibility Setting)
+	* 회원 목록 확인 (User List)
+	* 회원 희망 도서 확인 (Hope List)
 
 ## User 기능
-	* 도서 구매
-	* 도서 장바구니
-	* 자유게시판 작성/삭제
+	* 도서 구매 (Buy Book)
+	* 도서 장바구니 (Book Cart)
+	* 자유게시판 작성/삭제 (Board Write/Delete)
 
 ## Database 구조
 [Database Table 구조 모음](./src/main/resources/static/sql/DatabaseQuery.md)
